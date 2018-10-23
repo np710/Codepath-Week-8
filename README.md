@@ -1,7 +1,7 @@
 # Codepath-Week-8
 # Project 8 - Pentesting Live Targets
 
-Time spent: **X** hours spent in total
+Time spent: 6 hours spent in total
 
 > Objective: Identify vulnerabilities in three different versions of the Globitek website: blue, green, and red.
 
