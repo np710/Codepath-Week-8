@@ -18,7 +18,7 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 ## Blue
 
 Vulnerability #1: 
-<img src="my_gif_walkthrough_url" width="800">
+<img src="https://github.com/np710/Codepath-Week-8/blob/master/CSRF%201.gif" width="800">
 Vulnerability #2: 
 
 
