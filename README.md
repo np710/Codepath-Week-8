@@ -18,22 +18,26 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 ## Blue
 
 Vulnerability #1: 
-<img src="https://github.com/np710/Codepath-Week-8/blob/master/CSRF%201.gif" width="800">
+<img src="https://github.com/np710/Codepath-Week-8/blob/master/session%20hijack.gif" width="800">
 Vulnerability #2: 
-
+<img src="https://github.com/np710/Codepath-Week-8/blob/master/SQL%20Injection.gif" width="800">
 
 ## Green
 
-Vulnerability #1: __________________
+Vulnerability #1:
+<img src="https://github.com/np710/Codepath-Week-8/blob/master/User%20Enumeration.gif" width="800">
 
-Vulnerability #2: __________________
+Vulnerability #2: 
+<img src="https://github.com/np710/Codepath-Week-8/blob/master/XSS1.gif" width="800">
 
 
 ## Red
 
-Vulnerability #1: __________________
+Vulnerability #1:
+<img src="https://github.com/np710/Codepath-Week-8/blob/master/CSRF%201.gif" width="800">
 
-Vulnerability #2: __________________
+Vulnerability #2: 
+<img src="https://github.com/np710/Codepath-Week-8/blob/master/IDOR-1.gif" width="800">
 
 
 ## Notes
